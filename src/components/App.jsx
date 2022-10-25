@@ -5,12 +5,12 @@ export const App = () => {
         height: '100vh',
         display: 'flex',
         justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        fontSize: 70,
+        color: '#f1ebeb',
+        backgroundImage: `url(${process.env.PUBLIC_URL + '/background.png'})`
       }}
     >
-      React homework template
+      SELECT YOUR FIGHTER
     </div>
   );
 };
