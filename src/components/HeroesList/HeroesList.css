@@ -1,0 +1,22 @@
+.heroesList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 630px;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  font-weight: bolder;
+  font-style: italic;
+  color: #f1ebeb;
+  margin-bottom: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
