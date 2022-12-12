@@ -1,4 +1,5 @@
 import HeroesList from './HeroesList/HeroesList';
+import HookSwitcher from './Switcher/Switcher';
 
 const heroesArray = [
   { imgName: '1', active: true, x: 1, y: 1 },
@@ -19,16 +20,11 @@ const heroesArray = [
 ];
 
 export const App = () => {
+
+
   return (
-    <div
-      style={{
-        height: '100vh',
-        backgroundImage: `url('${process.env.PUBLIC_URL}/background.png')`,
-        backgroundRepeat: 'no-repeat',
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-      }}
-    >
+    <div>
+       <HookSwitcher/>
       <HeroesList heroes={heroesArray}></HeroesList>
     </div>
   );
