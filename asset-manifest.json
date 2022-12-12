@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/mortal_kombat/static/css/main.71f601fa.css",
-    "main.js": "/mortal_kombat/static/js/main.acd56fef.js",
+    "main.css": "/mortal_kombat/static/css/main.a52c7173.css",
+    "main.js": "/mortal_kombat/static/js/main.a0f5e08a.js",
     "static/js/787.ca141422.chunk.js": "/mortal_kombat/static/js/787.ca141422.chunk.js",
+    "static/media/background.png": "/mortal_kombat/static/media/background.cab98106e564e4c71753.png",
     "index.html": "/mortal_kombat/index.html",
-    "main.71f601fa.css.map": "/mortal_kombat/static/css/main.71f601fa.css.map",
-    "main.acd56fef.js.map": "/mortal_kombat/static/js/main.acd56fef.js.map",
+    "main.a52c7173.css.map": "/mortal_kombat/static/css/main.a52c7173.css.map",
+    "main.a0f5e08a.js.map": "/mortal_kombat/static/js/main.a0f5e08a.js.map",
     "787.ca141422.chunk.js.map": "/mortal_kombat/static/js/787.ca141422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71f601fa.css",
-    "static/js/main.acd56fef.js"
+    "static/css/main.a52c7173.css",
+    "static/js/main.a0f5e08a.js"
   ]
 }
